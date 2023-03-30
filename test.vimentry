@@ -1,0 +1,45 @@
+-- auto-gen settings (DO NOT MODIFY) --
+
+CWD=D:/Temp/test
+Version=25
+VimEntryName=test
+VimfilesDirName=.vimfiles.test
+
+-- ex-plugins File Settings --
+
+LangType=auto
+Project=./.vimfiles.test/project_tree.exproject
+FilenameList=./.vimfiles.test/filenamelist
+Tag=./tags
+ID=./.vimfiles.test/ID
+Symbol=./.vimfiles.test/symbol
+Macro=./.vimfiles.test/macro
+Cscope=./cscope.out
+Files=./.vimfiles.test/cscope.files
+Inherits=./.vimfiles.test/inherits
+Bookmarks=./.vimfiles.test/bookmarks
+
+vimentryRefs+=
+
+-- ex-plugins Behavior Settings --
+
+RestoreBuffers=false
+AskForRestoration=true
+RestoreInfo=./.vimfiles.test/restore_info
+
+-- LookupFile Settings --
+
+LookupFileTag=./.vimfiles.test/filenametags
+
+-- Visual Studio Settings --
+
+vsTaskList=./.vimfiles.test/vs_task_list
+vsOutput=./.vimfiles.test/vs_output
+vsFindResult1=./.vimfiles.test/vs_find_results_1
+vsFindResult2=./.vimfiles.test/vs_find_results_2
+-- Compiler Settings --
+Compiler=iar
+Makelog=./.vimfiles.test/makelog.txt
+--  Git  Settings   --
+GitVersionFile=version.h
+
